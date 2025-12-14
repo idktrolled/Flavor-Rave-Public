@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "lime",
-			"type": "git",
+			"type": "haxelib",
 			"version": "8.3.0"
 		},
 		{
@@ -17,7 +17,7 @@
 		},
 		{
 		      "name": "flixel",
-		      "type": "git",
+		      "type": "haxelib",
 			"version": "6.1.1"
 		},
 		{
@@ -39,7 +39,7 @@
 			"name": "hxcpp",
 			"type": "git",
             		"dir": null,
-            		"ref": "main",
+            		"ref": "master",
             		"url": "https://github.com/HaxeFoundation/hxcpp"
 		},
 		{
