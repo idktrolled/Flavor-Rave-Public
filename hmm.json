@@ -23,7 +23,7 @@
 		{
 			"name": "flixel-addons",
 			"type": "haxelib",
-			"version": "3.2.1"
+			"version": "4.0.1"
 		},
 		{
 			"name": "flixel-tools",
@@ -33,7 +33,7 @@
 		{
 			"name": "flixel-ui",
 			"type": "haxelib",
-			"version": "2.5.0"
+			"version": "2.6.4"
 		},
 		{
 			"name": "hxcpp",
