@@ -8,9 +8,7 @@
 		{
 			"name": "lime",
 			"type": "git",
-            		"dir": null,   
-            		"ref": "main",
-            		"url": "https://github.com/kittycathy233/lime"
+			"version": "8.3.0"
 		},
 		{
 			"name": "openfl",
@@ -20,9 +18,7 @@
 		{
 		      "name": "flixel",
 		      "type": "git",
-		      "dir": null,
-		      "ref": "main",
-		      "url": "https://github.com/kittycathy233/flixel"
+			"version": "6.1.1"
 		},
 		{
 			"name": "flixel-addons",
@@ -44,7 +40,7 @@
 			"type": "git",
             		"dir": null,
             		"ref": "main",
-            		"url": "https://github.com/kittycathy233/hxcpp"
+            		"url": "https://github.com/HaxeFoundation/hxcpp"
 		},
 		{
 			"name": "hxjsonast",
